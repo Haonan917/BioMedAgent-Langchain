@@ -1,0 +1,8 @@
+# tool_name
+
+survival_curve
+
+# description
+
+survival_curve is a tool to plot the survival curve using survival time, event status, and variables that may affect survival.
+

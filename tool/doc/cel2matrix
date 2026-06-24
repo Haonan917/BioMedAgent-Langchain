@@ -1,0 +1,8 @@
+# tool_name
+
+cel2matrix
+
+# description
+
+Cel2matrix is a tool for extracting expression profile data from CEL files and annotating probes.
+
